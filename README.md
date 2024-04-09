@@ -3,7 +3,7 @@
 <p align="center"><img src="https://github.com/FerrazThales/FiltroUltimoMeses/blob/main/media/analisar_ultimos_meses.gif"></p>
 
 ## Introdução
-O artigo aborda como filtrar dinamicamente os últimos N meses no Power BI, com base em uma data escolhida. A necessidade surge em situações onde é preciso analisar um número específico de meses anteriores de forma dinâmica.
+O [artigo](https://thalesferraz.medium.com/como-filtrar-apenas-os-%C3%BAltimos-n-meses-no-power-bi-3df035f1918b) aborda como filtrar dinamicamente os últimos N meses no Power BI, com base em uma data escolhida. A necessidade surge em situações onde é preciso analisar um número específico de meses anteriores de forma dinâmica.
 
 ## Desenvolvimento
 
